@@ -10,7 +10,7 @@ import subprocess
 load_dotenv()
 
 # Initialize OpenAI client
-client = OpenAI(api_key="sk-o9pT3xIX1lod6-hdC98FY-ZCe9aFmsKpCET8F4PLI_T3BlbkFJyi-F8AieHSsZDWs25ujuIVRgEuJbFQLZv5tVfev3EA")
+client = OpenAI(api_key="")
 
 # Set page config
 st.set_page_config(page_title="AI-Powered Video Translation App", layout="wide")
