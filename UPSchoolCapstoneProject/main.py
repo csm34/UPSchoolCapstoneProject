@@ -16,7 +16,7 @@ client = OpenAI(api_key="")
 st.set_page_config(page_title="AI-Powered Video Translation App", layout="wide")
 
 # Streamlit app
-st.title("AI-Supported Startup Application")
+st.title("AI-Powered Video Translation App")
 
 # Background image styling
 def add_bg_image():
