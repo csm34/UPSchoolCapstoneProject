@@ -82,7 +82,7 @@ This will open the application in your default browser.
 --- 
 
 ## Credits
-This app was created with the help of ChatGPT.
+This app was created with the help of ChatGPT and Claude.
 
 ## License
 MIT License. See LICENSE for details.
